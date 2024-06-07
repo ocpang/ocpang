@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [OPPO Indonesia](https://www.oppo.com/id/)
 
-- 👨‍💻 Portfolio at [Here](https://ocpang.github.io/)
+- 👨‍💻 Portfolio at [here](https://ocpang.github.io/)
 
 - 📫 How to reach me **octavian.ocpang@gmail.com**
 
@@ -17,7 +17,7 @@
 
 ***********************************
 
-<p align="center">Connect With Me</p>
+<p align="center">Connect with me :</p>
 <p align="center">
     <a href="https://www.instagram.com/octavian.png/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
     <a href="https://www.linkedin.com/in/octavianpanggestu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
