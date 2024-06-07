@@ -1,15 +1,21 @@
-<center>
-    <a href="https://ocpang.github.io/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocpang&layout=compact" alt="Top Programming" />
-    </a>
-    <a href="https://ocpang.github.io/">
-        <img src="https://github-readme-stats.vercel.app/api?username=ocpang&hide=contribs,prs" alt="Statistics" />
-    </a>
-</center>
+<h1 align="center">Hi 👋, I'm Octavian Panggestu</h1>
+<h3 align="center">A Software Engineer 🚀 from Indonesia</h3>
 
+<br>
+<br>
 
-### 📫 Please send mail to octavian.ocpang@gmail.com for hire me.
+- 🔭 I’m currently working on [OPPO Indonesia](https://www.oppo.com/id/)
 
+- 👨‍💻 Portfolio at [Here](https://ocpang.github.io/)
+
+- 📫 How to reach me **octavian.ocpang@gmail.com**
+
+**⚡ Languages and Tools:**  
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="32px" alt="Laravel">
+
+![Octavian Github Stats](https://github-readme-stats.vercel.app/api?username=ocpang&show_icons=true&hide_border=true)
+
+***********************************
 
 <p align="center">Connect With Me</p>
 <p align="center">
@@ -18,20 +24,3 @@
     <a href="https://github.com/ocpang" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32px" alt="GitHub"></a>
     <a href="https://ocpang.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=website&logoColor=white" height="32px" alt="Portfolio"></a>
 </p>
-
-<!--
-## Hi there 👋
-
-**ocpang/ocpang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
